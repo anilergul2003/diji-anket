@@ -1,0 +1,1 @@
+console.log("dijiAnket projesi başarıyla başlatıldı!");
